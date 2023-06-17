@@ -11,12 +11,9 @@
 <p align="center">
   Hi, I'm Pavan Bagwe, Computer Engineer & Software Developer from India
   <br>
-  <br>
-  👨‍🎓 I'm currently studying for a Bachelor's degree in Mumbai University  
+  
   <br>
   💻 I love Writing code
-  <br>
-  📚 I’m currently focusing on Computer Vision &  Backend 
   <br>
   📫 How to reach me 👇
 </p>
